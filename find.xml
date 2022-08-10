@@ -3,8 +3,7 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
+    <mask>*.go2</mask>
+    <mask>*.go</mask>
   </component>
 </application>
