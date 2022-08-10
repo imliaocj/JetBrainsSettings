@@ -1,9 +1,0 @@
-<application>
-  <component name="GoSdkList">
-    <sdk-url>
-      <set>
-        <option value="file://$USER_HOME$/.goenv/versions/1.18.5" />
-      </set>
-    </sdk-url>
-  </component>
-</application>
