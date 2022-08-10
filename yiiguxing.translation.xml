@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="2324" />
+    <option name="newTranslationDialogY" value="336" />
+    <option name="pinTranslationDialog" value="true" />
+    <histories>
+      <item value="yes" />
+      <item value="Jsoup" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="1" />
+        <entry key="CZECH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1660012938013" />
+  </component>
+  <component name="Settings">
+    <option name="foldOriginal" value="true" />
+    <option name="keepFormat" value="true" />
+  </component>
+</application>
