@@ -1,7 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="2056" />
+    <option name="newTranslationDialogY" value="198" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Provides transitive vulnerable dependency com.alibaba.nacos:nacos-client:2.0.4" />
       <item value="additivity" />
       <item value="discovery" />
       <item value="block" />
@@ -17,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="14" />
         <entry key="CZECH" value="2" />
       </map>
     </option>
