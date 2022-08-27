@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="198" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java: 程序包org.springframework.boot不存在" />
       <item value="Provides transitive vulnerable dependency com.alibaba.nacos:nacos-client:2.0.4" />
       <item value="additivity" />
       <item value="discovery" />
@@ -27,7 +28,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661082371620" />
+    <option name="lastTrimTime" value="1661606701257" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
