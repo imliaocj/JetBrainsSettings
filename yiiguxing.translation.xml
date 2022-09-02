@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2056" />
-    <option name="newTranslationDialogY" value="198" />
+    <option name="newTranslationDialogX" value="597" />
+    <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="filter" />
       <item value="java: 程序包org.springframework.boot不存在" />
       <item value="Provides transitive vulnerable dependency com.alibaba.nacos:nacos-client:2.0.4" />
       <item value="additivity" />
@@ -21,17 +22,19 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="CZECH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661606701257" />
+    <option name="lastTrimTime" value="1662080818327" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
     <option name="keepFormat" value="true" />
+    <option name="showExplanation" value="true" />
+    <option name="showWordsOnStartup" value="true" />
   </component>
 </application>
