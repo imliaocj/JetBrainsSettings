@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="hello" />
+      <item value="h" />
       <item value="Bubble Sort" />
       <item value="冒泡排序" />
       <item value="冒泡" />
@@ -25,7 +27,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
+        <entry key="CHINESE" value="22" />
         <entry key="ENGLISH" value="21" />
         <entry key="CZECH" value="2" />
       </map>
@@ -39,6 +41,5 @@
     <option name="keepFormat" value="true" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
