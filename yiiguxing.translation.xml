@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="print counter number" />
+      <item value="print counter numbers" />
+      <item value="打印计数器数字" />
       <item value="厚度" />
       <item value="厚度&#10;" />
       <item value="remainder" />
@@ -33,8 +36,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="41" />
         <entry key="CZECH" value="2" />
       </map>
     </option>
