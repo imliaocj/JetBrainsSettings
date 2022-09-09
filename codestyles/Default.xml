@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+  <option name="SOFT_MARGINS" value="80" />
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
   </codeStyleSettings>
