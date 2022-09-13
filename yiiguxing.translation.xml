@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Prime Number" />
       <item value="质数" />
       <item value="不死神兔" />
       <item value="不死神 " />
@@ -42,7 +43,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="ENGLISH" value="46" />
         <entry key="CZECH" value="2" />
       </map>
     </option>
