@@ -1,6 +1,9 @@
 <application>
   <component name="GiteeAccounts">
-    <account name="imliaocj" id="6c51c309-9400-4300-b62e-6e0d97a550dd">
+    <account name="liaocj" id="c92c8baa-2614-4f8d-943b-6420323821bf">
+      <Server host="gitee.com" clientid="b7837ec65bcb294b0e2a31e5669b788a3185829524af4d818c3c2a35b186366d" clientsecret="85891acdb745502e19e02e3bbcd405dd303190c8a3fcf29a6ca7a2796b76f918" />
+    </account>
+    <account name="imliaocj" id="953e08ba-1a9b-4099-aee0-13398c7f0749">
       <Server host="gitee.com" clientid="b7837ec65bcb294b0e2a31e5669b788a3185829524af4d818c3c2a35b186366d" clientsecret="85891acdb745502e19e02e3bbcd405dd303190c8a3fcf29a6ca7a2796b76f918" />
     </account>
   </component>
