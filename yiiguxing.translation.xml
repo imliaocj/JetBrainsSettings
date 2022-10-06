@@ -53,9 +53,30 @@
     <option name="lastTrimTime" value="1664343896114" />
   </component>
   <component name="Settings">
+    <option name="aliTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="primaryLanguage" value="CHINESE" />
+      </app-key>
+    </option>
     <option name="foldOriginal" value="true" />
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </google-translate>
+    </option>
     <option name="keepFormat" value="true" />
+    <option name="primaryFontPreviewText" value="海内存知己&#10;天涯若比邻" />
     <option name="showExplanation" value="true" />
     <option name="showWordsOnStartup" value="true" />
+    <option name="youdaoTranslateSettings">
+      <youdao-translate>
+        <option name="primaryLanguage" value="CHINESE" />
+      </youdao-translate>
+    </option>
   </component>
 </application>

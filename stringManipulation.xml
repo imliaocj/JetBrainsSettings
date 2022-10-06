@@ -5,5 +5,19 @@
         <option name="actionClassName" value="osmedile.intellij.stringmanip.styles.ToPascalCaseAction" />
       </UniversalActionModel>
     </option>
+    <option name="sortSettings">
+      <SortSettings>
+        <option name="collatorLanguageTag" value="zh_CN_#Hans" />
+      </SortSettings>
+    </option>
+    <option name="sortTokensModel">
+      <SortTokensModel>
+        <option name="sortSettings">
+          <SortSettings>
+            <option name="collatorLanguageTag" value="zh_CN_#Hans" />
+          </SortSettings>
+        </option>
+      </SortTokensModel>
+    </option>
   </component>
 </application>
