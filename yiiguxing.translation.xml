@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="a slash isn't required if there is no file name" />
       <item value="algorithm" />
       <item value="escape" />
       <item value="AUTOMATIC" />
@@ -51,7 +52,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="CZECH" value="2" />
         <entry key="GREEK" value="1" />
       </map>
