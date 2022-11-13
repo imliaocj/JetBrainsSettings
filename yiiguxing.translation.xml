@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="THIRD" />
       <item value="a slash isn't required if there is no file name" />
       <item value="algorithm" />
       <item value="escape" />
@@ -51,15 +52,15 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="CZECH" value="2" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1667836757348" />
+    <option name="lastTrimTime" value="1668317041057" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
