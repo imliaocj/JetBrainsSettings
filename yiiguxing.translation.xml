@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="allocated" />
       <item value="condition" />
       <item value="THIRD" />
       <item value="a slash isn't required if there is no file name" />
