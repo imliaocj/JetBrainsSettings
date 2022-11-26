@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="wort" />
       <item value="association" />
       <item value="multiple" />
       <item value="allocated" />
@@ -56,15 +57,16 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
+        <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="2" />
         <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668780684845" />
+    <option name="lastTrimTime" value="1669458955901" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
