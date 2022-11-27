@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Digit" />
+      <item value="Digits" />
       <item value="日期" />
       <item value="二楼" />
       <item value="一楼" />
@@ -52,13 +54,11 @@
       <item value="Interceptor" />
       <item value="Client Http Request Interceptor" />
       <item value="Intercepts" />
-      <item value="domain" />
-      <item value="fetch" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="63" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="2" />
         <entry key="GREEK" value="1" />
