@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="434" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="日期" />
       <item value="二楼" />
       <item value="一楼" />
       <item value="wort" />
@@ -53,12 +54,11 @@
       <item value="Intercepts" />
       <item value="domain" />
       <item value="fetch" />
-      <item value="liteal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="61" />
         <entry key="GERMAN" value="1" />
         <entry key="CZECH" value="2" />
         <entry key="GREEK" value="1" />
