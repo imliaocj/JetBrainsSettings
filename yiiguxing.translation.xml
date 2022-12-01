@@ -79,6 +79,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Head" />
       <item value="实时标志" />
       <item value="不等于" />
       <item value="小于等于" />
@@ -92,7 +93,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
       </map>
     </option>
   </component>
