@@ -79,6 +79,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="计算" />
       <item value="direct" />
       <item value="直接赋值" />
       <item value="Head" />
@@ -94,7 +95,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="11" />
+        <entry key="CHINESE" value="12" />
         <entry key="ENGLISH" value="12" />
       </map>
     </option>
