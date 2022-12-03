@@ -6,6 +6,15 @@
           <option name="models">
             <list>
               <GrepModel>
+                <option name="expression" value="" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
                 <option name="expression" value="info" />
               </GrepModel>
             </list>
@@ -15,7 +24,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="error" />
               </GrepModel>
             </list>
           </option>
