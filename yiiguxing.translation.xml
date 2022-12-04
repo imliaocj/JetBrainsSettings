@@ -81,8 +81,11 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
-      <item value="体积" />
+      <item value="LIQUID" />
+      <item value="YBRT液位" />
       <item value="液位" />
+      <item value="报表" />
+      <item value="体积" />
       <item value="Refactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed." />
       <item value="计算" />
       <item value="direct" />
@@ -100,8 +103,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="15" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
