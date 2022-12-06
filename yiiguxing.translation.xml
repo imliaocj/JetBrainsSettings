@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="生成报表" />
       <item value="赋值方式" />
       <item value="rsponsibility" />
       <item value="责任链" />
@@ -109,8 +110,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="23" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
       </map>
     </option>
   </component>
