@@ -6,7 +6,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="error" />
+                <option name="expression" value="debug" />
               </GrepModel>
             </list>
           </option>
@@ -15,7 +15,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="debug" />
+                <option name="expression" value="info" />
               </GrepModel>
             </list>
           </option>
@@ -33,7 +33,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="info" />
+                <option name="expression" value="error" />
               </GrepModel>
             </list>
           </option>
