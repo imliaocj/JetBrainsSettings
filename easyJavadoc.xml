@@ -5,6 +5,20 @@
     <option name="genAllField" value="false" />
     <option name="genAllInnerClass" value="false" />
     <option name="genAllMethod" value="false" />
+    <option name="projectWordMap">
+      <map>
+        <entry key="put-ccr-report-server">
+          <value>
+            <map />
+          </value>
+        </entry>
+        <entry key="xix-ccr-report-server">
+          <value>
+            <map />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="simpleFieldDoc" value="true" />
   </component>
 </application>
