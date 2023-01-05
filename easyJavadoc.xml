@@ -7,11 +7,7 @@
     <option name="genAllMethod" value="false" />
     <option name="projectWordMap">
       <map>
-        <entry key="put-ccr-report-server">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="put-ccr-report-server" />
         <entry key="xix-ccr-report-server">
           <value>
             <map />
