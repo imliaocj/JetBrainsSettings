@@ -13,6 +13,11 @@
             <map />
           </value>
         </entry>
+        <entry key="ziy-ccr-report-server">
+          <value>
+            <map />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="simpleFieldDoc" value="true" />
