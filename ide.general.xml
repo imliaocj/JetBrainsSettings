@@ -1,16 +1,6 @@
 <application>
   <component name="GeneralSettings">
-    <option name="autoSaveIfInactive" value="true" />
-    <option name="inactiveTimeout" value="10" />
     <option name="reopenLastProject" value="false" />
-  </component>
-  <component name="StatusBar">
-    <option name="widgets">
-      <map>
-        <entry key="CwmWireStatsWidgetFactory" value="false" />
-        <entry key="Memory" value="true" />
-        <entry key="com.intellij.psi.codeStyle.statusbar.CodeStyleStatusBarWidget" value="false" />
-      </map>
-    </option>
+    <option name="showTipsOnStartup" value="false" />
   </component>
 </application>
