@@ -75,12 +75,19 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675673410319" />
+    <option name="lastTrimTime" value="1677656019259" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="fifth" />
+      <item value="fourth" />
+      <item value="Fourth" />
+      <item value="FOURTH" />
+      <item value="第五" />
+      <item value="FIVETH" />
+      <item value="第四" />
       <item value="subtract" />
       <item value="boundary Gap" />
       <item value="Range" />
@@ -115,8 +122,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="28" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="CHINESE" value="34" />
+        <entry key="ENGLISH" value="35" />
       </map>
     </option>
   </component>
