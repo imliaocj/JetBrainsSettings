@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vm" />
     <mask>*.css</mask>
     <mask>*.go2</mask>
     <mask>*.go</mask>
@@ -11,5 +12,6 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.vm</mask>
   </component>
 </application>
