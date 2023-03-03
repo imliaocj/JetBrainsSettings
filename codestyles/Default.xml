@@ -50,4 +50,9 @@
     <option name="ENUM_CONSTANTS_WRAP" value="2" />
     <option name="KEEP_BUILDER_METHODS_INDENTS" value="true" />
   </codeStyleSettings>
+  <codeStyleSettings language="yaml">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="4" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
