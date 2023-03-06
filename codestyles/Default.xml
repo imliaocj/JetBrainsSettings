@@ -1,9 +1,11 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="100" />
   <JavaCodeStyleSettings>
+    <option name="SPACE_AFTER_CLOSING_ANGLE_BRACKET_IN_TYPE_ARGUMENT" value="true" />
     <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION_IN_PARAMETER" value="true" />
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_TEXT_BLOCKS" value="true" />
+    <option name="SPACE_INSIDE_ONE_LINE_ENUM_BRACES" value="true" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
@@ -11,8 +13,14 @@
     <option name="BLOCK_COMMENT_ADD_SPACE" value="true" />
     <option name="LINE_COMMENT_ADD_SPACE_ON_REFORMAT" value="true" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="BRACE_STYLE" value="2" />
+    <option name="CLASS_BRACE_STYLE" value="2" />
+    <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="LAMBDA_BRACE_STYLE" value="2" />
+    <option name="ELSE_ON_NEW_LINE" value="true" />
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+    <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
     <option name="ALIGN_MULTILINE_ASSIGNMENT" value="true" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
@@ -20,6 +28,8 @@
     <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
     <option name="ALIGN_MULTILINE_METHOD_BRACKETS" value="true" />
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_CONSECUTIVE_ASSIGNMENTS" value="true" />
+    <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
     <option name="PREFER_PARAMETERS_WRAP" value="true" />
     <option name="METHOD_PARAMETERS_WRAP" value="1" />
