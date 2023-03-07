@@ -8,7 +8,6 @@
       <map>
         <entry key="AwsSettingsPanel" value="false" />
         <entry key="aws.codewhisperer" value="false" />
-        <entry key="git" value="false" />
       </map>
     </option>
   </component>
