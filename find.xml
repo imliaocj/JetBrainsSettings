@@ -12,5 +12,6 @@
     <mask>*.vm</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
