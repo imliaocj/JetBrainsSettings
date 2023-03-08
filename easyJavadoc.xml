@@ -8,11 +8,12 @@
     <option name="projectWordMap">
       <map>
         <entry key="put-ccr-report-server" />
-        <entry key="xix-ccr-report-server">
+        <entry key="ruoyi-generator">
           <value>
             <map />
           </value>
         </entry>
+        <entry key="xix-ccr-report-server" />
         <entry key="ziy-ccr-report-server" />
       </map>
     </option>
