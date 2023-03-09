@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="参数" />
       <item value="获取" />
       <item value="format" />
       <item value="Category" />
@@ -125,8 +126,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="37" />
-        <entry key="ENGLISH" value="37" />
+        <entry key="CHINESE" value="38" />
+        <entry key="ENGLISH" value="38" />
       </map>
     </option>
   </component>
