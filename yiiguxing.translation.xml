@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="系统工单" />
       <item value="批次订单" />
       <item value="rx" />
       <item value="Organization" />
@@ -129,8 +130,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="45" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
