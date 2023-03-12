@@ -75,12 +75,13 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678175164010" />
+    <option name="lastTrimTime" value="1678629917303" />
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="divisor" />
       <item value="系统工单" />
       <item value="批次订单" />
       <item value="rx" />
@@ -131,7 +132,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="ENGLISH" value="47" />
       </map>
     </option>
   </component>
