@@ -1,5 +1,6 @@
 <code_scheme name="Default" version="173">
-  <option name="SOFT_MARGINS" value="100" />
+  <option name="RIGHT_MARGIN" value="100" />
+  <option name="SOFT_MARGINS" value="80" />
   <JavaCodeStyleSettings>
     <option name="SPACE_AFTER_CLOSING_ANGLE_BRACKET_IN_TYPE_ARGUMENT" value="true" />
     <option name="DO_NOT_WRAP_AFTER_SINGLE_ANNOTATION_IN_PARAMETER" value="true" />
