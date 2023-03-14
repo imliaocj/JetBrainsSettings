@@ -81,6 +81,8 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="fourth" />
+      <item value="Fourth" />
       <item value="divisor" />
       <item value="系统工单" />
       <item value="批次订单" />
@@ -91,8 +93,6 @@
       <item value="format" />
       <item value="Category" />
       <item value="fifth" />
-      <item value="fourth" />
-      <item value="Fourth" />
       <item value="FOURTH" />
       <item value="第五" />
       <item value="FIVETH" />
@@ -131,8 +131,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
