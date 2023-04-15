@@ -81,6 +81,10 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="Your application is free to assign client handles by whatever means necessary." />
+      <item value="queue Size" />
+      <item value="create Subscription" />
+      <item value="DEFAULT MAX NOTIFICATIONS PER PUBLISH" />
       <item value="divide" />
       <item value="increment" />
       <item value="supports GET, HEAD, POST, PUT, PATCH, and DELETE only." />
@@ -127,15 +131,11 @@
       <item value="实时标志" />
       <item value="不等于" />
       <item value="小于等于" />
-      <item value="小于" />
-      <item value="大于" />
-      <item value="等于" />
-      <item value="结束" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="56" />
       </map>
     </option>
   </component>
