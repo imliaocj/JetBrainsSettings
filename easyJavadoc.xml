@@ -17,11 +17,19 @@
             <map />
           </value>
         </entry>
-        <entry key="ebr-customized-platform" />
+        <entry key="ebr-customized-platform">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="emg" />
         <entry key="put-ccr-report-server" />
         <entry key="ruoyi-generator" />
-        <entry key="xix-ccr-report-server" />
+        <entry key="xix-ccr-report-server">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="ziy-ccr-report-server" />
       </map>
     </option>
