@@ -81,6 +81,7 @@
     <option name="newTranslationDialogX" value="581" />
     <option name="newTranslationDialogY" value="-618" />
     <histories>
+      <item value="subtract" />
       <item value="Your application is free to assign client handles by whatever means necessary." />
       <item value="queue Size" />
       <item value="create Subscription" />
@@ -104,7 +105,6 @@
       <item value="第五" />
       <item value="FIVETH" />
       <item value="第四" />
-      <item value="subtract" />
       <item value="boundary Gap" />
       <item value="Range" />
       <item value="Aspect" />
@@ -134,8 +134,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>
