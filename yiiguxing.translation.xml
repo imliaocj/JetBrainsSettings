@@ -85,6 +85,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="MINUTE" />
       <item value="修补的" />
       <item value="subtract" />
       <item value="Your application is free to assign client handles by whatever means necessary." />
@@ -134,12 +135,11 @@
       <item value="直接赋值" />
       <item value="Head" />
       <item value="实时标志" />
-      <item value="不等于" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
