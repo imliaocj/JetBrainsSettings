@@ -75,12 +75,17 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681566112147" />
+    <option name="lastTrimTime" value="1683289829248" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogX" value="581" />
-    <option name="newTranslationDialogY" value="-618" />
+    <option name="newTranslationDialogX" value="575" />
+    <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="修补的" />
       <item value="subtract" />
       <item value="Your application is free to assign client handles by whatever means necessary." />
       <item value="queue Size" />
@@ -130,7 +135,6 @@
       <item value="Head" />
       <item value="实时标志" />
       <item value="不等于" />
-      <item value="小于等于" />
     </histories>
     <option name="languageScores">
       <map>
