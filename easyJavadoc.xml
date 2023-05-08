@@ -12,16 +12,8 @@
     <option name="kdocSimpleFieldDoc" value="true" />
     <option name="projectWordMap">
       <map>
-        <entry key="RuoYi-Plus">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="ebr-customized-platform">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="RuoYi-Plus" />
+        <entry key="ebr-customized-platform" />
         <entry key="emg" />
         <entry key="put-ccr-report-server" />
         <entry key="ruoyi-generator" />
