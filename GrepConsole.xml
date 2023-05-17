@@ -46,7 +46,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="info" />
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>
@@ -55,7 +55,7 @@
           <option name="models">
             <list>
               <GrepModel>
-                <option name="expression" value="" />
+                <option name="expression" value="info" />
               </GrepModel>
             </list>
           </option>
