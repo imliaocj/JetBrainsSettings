@@ -1,32 +1,5 @@
 <application>
   <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="2" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="2" />
     <option name="REFORMAT_ON_PASTE" value="1" />
-    <option name="INDENT_TO_CARET_ON_PASTE" value="true" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="CodeVisionSettings">
-    <option name="codeVisionGroupToPosition">
-      <map>
-        <entry key="inheritors" value="Default" />
-        <entry key="problems" value="Default" />
-        <entry key="references" value="Default" />
-        <entry key="vcs.code.vision" value="Default" />
-      </map>
-    </option>
-  </component>
-  <component name="DaemonCodeAnalyzerSettings">
-    <option name="AUTOREPARSE_DELAY" value="0" />
-    <option name="SHOW_METHOD_SEPARATORS" value="true" />
-  </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="STRIP_TRAILING_SPACES" value="Whole" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-    <option name="BIDI_TEXT_DIRECTION" value="LTR" />
-  </component>
-  <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="" />
   </component>
 </application>
