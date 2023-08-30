@@ -1,5 +1,11 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="WelcomeScreen.OpenProject">
+      <i c="2" l="1693366416711" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1693366456854" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.NotificationEventAction">
       <i c="3" l="1693366369614" />
     </e>
