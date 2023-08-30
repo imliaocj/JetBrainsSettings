@@ -21424,672 +21424,672 @@
         ]
       }
     },
-    "lastUpdateTime": 1693366685087
+    "lastUpdateTime": 1693366781768
   }
 }]]></component>
-  <component name="PluginFeatureService"><![CDATA[{
-  "features": {
-    "com.intellij.facetType": {
-      "featureMap": {
-        "javaeeApplication": {
-          "displayName": "JavaEE Application",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee",
-            "nullablePluginName": "Jakarta EE Platform",
-            "isBundled": true
+  <component name="PluginFeatureService">{
+  &quot;features&quot;: {
+    &quot;com.intellij.facetType&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;javaeeApplication&quot;: {
+          &quot;displayName&quot;: &quot;JavaEE Application&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE Platform&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "Spring": {
-          "displayName": "Spring",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring",
-            "nullablePluginName": "Spring",
-            "isBundled": true
+        &quot;Spring&quot;: {
+          &quot;displayName&quot;: &quot;Spring&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "kotlin-language": {
-          "displayName": "Kotlin",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.kotlin",
-            "nullablePluginName": "Kotlin",
-            "isBundled": true
+        &quot;kotlin-language&quot;: {
+          &quot;displayName&quot;: &quot;Kotlin&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.kotlin&quot;,
+            &quot;nullablePluginName&quot;: &quot;Kotlin&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "web": {
-          "displayName": "Web",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee.web",
-            "nullablePluginName": "Jakarta EE: Web/Servlets",
-            "isBundled": true
+        &quot;web&quot;: {
+          &quot;displayName&quot;: &quot;Web&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee.web&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Web/Servlets&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "JRebel": {
-          "displayName": "JRebel",
-          "pluginData": {
-            "pluginIdString": "JRebelPlugin",
-            "nullablePluginName": "JRebel and XRebel"
+        &quot;JRebel&quot;: {
+          &quot;displayName&quot;: &quot;JRebel&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JRebelPlugin&quot;,
+            &quot;nullablePluginName&quot;: &quot;JRebel and XRebel&quot;
           }
         },
-        "jpa": {
-          "displayName": "JPA",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee.jpa",
-            "nullablePluginName": "Jakarta EE: Persistence (JPA)",
-            "isBundled": true
+        &quot;jpa&quot;: {
+          &quot;displayName&quot;: &quot;JPA&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee.jpa&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Persistence (JPA)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "hibernate": {
-          "displayName": "Hibernate",
-          "pluginData": {
-            "pluginIdString": "com.intellij.hibernate",
-            "nullablePluginName": "Hibernate",
-            "isBundled": true
+        &quot;hibernate&quot;: {
+          &quot;displayName&quot;: &quot;Hibernate&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.hibernate&quot;,
+            &quot;nullablePluginName&quot;: &quot;Hibernate&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "android": {
-          "displayName": "Android",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.android",
-            "nullablePluginName": "Android",
-            "isBundled": true
+        &quot;android&quot;: {
+          &quot;displayName&quot;: &quot;Android&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.android&quot;,
+            &quot;nullablePluginName&quot;: &quot;Android&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "android-artifact": {
-          "displayName": "Android Artifact",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.android",
-            "nullablePluginName": "Android",
-            "isBundled": true
+        &quot;android-artifact&quot;: {
+          &quot;displayName&quot;: &quot;Android Artifact&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.android&quot;,
+            &quot;nullablePluginName&quot;: &quot;Android&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "android-gradle": {
-          "displayName": "Android-Gradle",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.android",
-            "nullablePluginName": "Android",
-            "isBundled": true
+        &quot;android-gradle&quot;: {
+          &quot;displayName&quot;: &quot;Android-Gradle&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.android&quot;,
+            &quot;nullablePluginName&quot;: &quot;Android&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "native-android-gradle": {
-          "displayName": "Native-Android-Gradle",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.android",
-            "nullablePluginName": "Android",
-            "isBundled": true
+        &quot;native-android-gradle&quot;: {
+          &quot;displayName&quot;: &quot;Native-Android-Gradle&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.android&quot;,
+            &quot;nullablePluginName&quot;: &quot;Android&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java-gradle": {
-          "displayName": "Java-Gradle",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.android",
-            "nullablePluginName": "Android",
-            "isBundled": true
+        &quot;java-gradle&quot;: {
+          &quot;displayName&quot;: &quot;Java-Gradle&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.android&quot;,
+            &quot;nullablePluginName&quot;: &quot;Android&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "apk": {
-          "displayName": "APK",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.android",
-            "nullablePluginName": "Android",
-            "isBundled": true
+        &quot;apk&quot;: {
+          &quot;displayName&quot;: &quot;APK&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.android&quot;,
+            &quot;nullablePluginName&quot;: &quot;Android&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     },
-    "dependencySupport": {
-      "featureMap": {
-        "java:com.google.protobuf:protobuf-java": {
-          "displayName": "java:com.google.protobuf:protobuf-java",
-          "pluginData": {
-            "pluginIdString": "idea.plugin.protoeditor",
-            "nullablePluginName": "Protocol Buffers",
-            "isBundled": true
+    &quot;dependencySupport&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;java:com.google.protobuf:protobuf-java&quot;: {
+          &quot;displayName&quot;: &quot;java:com.google.protobuf:protobuf-java&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;idea.plugin.protoeditor&quot;,
+            &quot;nullablePluginName&quot;: &quot;Protocol Buffers&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:com.jetbrains:ideaIC": {
-          "displayName": "IntelliJ Platform Community",
-          "pluginData": {
-            "pluginIdString": "DevKit",
-            "nullablePluginName": "Plugin DevKit",
-            "isBundled": true
+        &quot;java:com.jetbrains:ideaIC&quot;: {
+          &quot;displayName&quot;: &quot;IntelliJ Platform Community&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;DevKit&quot;,
+            &quot;nullablePluginName&quot;: &quot;Plugin DevKit&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:com.jetbrains:ideaIU": {
-          "displayName": "IntelliJ Platform Ultimate",
-          "pluginData": {
-            "pluginIdString": "DevKit",
-            "nullablePluginName": "Plugin DevKit",
-            "isBundled": true
+        &quot;java:com.jetbrains:ideaIU&quot;: {
+          &quot;displayName&quot;: &quot;IntelliJ Platform Ultimate&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;DevKit&quot;,
+            &quot;nullablePluginName&quot;: &quot;Plugin DevKit&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.grpc:grpc-api": {
-          "displayName": "java:io.grpc:grpc-api",
-          "pluginData": {
-            "pluginIdString": "com.intellij.grpc",
-            "nullablePluginName": "gRPC",
-            "isBundled": true
+        &quot;java:io.grpc:grpc-api&quot;: {
+          &quot;displayName&quot;: &quot;java:io.grpc:grpc-api&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.grpc&quot;,
+            &quot;nullablePluginName&quot;: &quot;gRPC&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:postcss": {
-          "displayName": "PostCSS",
-          "pluginData": {
-            "pluginIdString": "org.intellij.plugins.postcss",
-            "nullablePluginName": "PostCSS",
-            "isBundled": true
+        &quot;javascript:npm:postcss&quot;: {
+          &quot;displayName&quot;: &quot;PostCSS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.intellij.plugins.postcss&quot;,
+            &quot;nullablePluginName&quot;: &quot;PostCSS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:docker": {
-          "displayName": "executable:docker",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:docker&quot;: {
+          &quot;displayName&quot;: &quot;executable:docker&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "executable:podman": {
-          "displayName": "executable:podman",
-          "pluginData": {
-            "pluginIdString": "Docker",
-            "nullablePluginName": "Docker",
-            "isBundled": true
+        &quot;executable:podman&quot;: {
+          &quot;displayName&quot;: &quot;executable:podman&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Docker&quot;,
+            &quot;nullablePluginName&quot;: &quot;Docker&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.projectlombok:lombok": {
-          "displayName": "Lombok",
-          "pluginData": {
-            "pluginIdString": "Lombook Plugin",
-            "nullablePluginName": "Lombok",
-            "isBundled": true
+        &quot;java:org.projectlombok:lombok&quot;: {
+          &quot;displayName&quot;: &quot;Lombok&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Lombook Plugin&quot;,
+            &quot;nullablePluginName&quot;: &quot;Lombok&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:javax.validation:validation-api": {
-          "displayName": "Java EE Bean Validation",
-          "pluginData": {
-            "pluginIdString": "com.intellij.beanValidation",
-            "nullablePluginName": "Jakarta EE: Bean Validation",
-            "isBundled": true
+        &quot;java:javax.validation:validation-api&quot;: {
+          &quot;displayName&quot;: &quot;Java EE Bean Validation&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.beanValidation&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Bean Validation&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:jakarta.validation:jakarta.validation-api": {
-          "displayName": "Jakarta EE Bean Validation",
-          "pluginData": {
-            "pluginIdString": "com.intellij.beanValidation",
-            "nullablePluginName": "Jakarta EE: Bean Validation",
-            "isBundled": true
+        &quot;java:jakarta.validation:jakarta.validation-api&quot;: {
+          &quot;displayName&quot;: &quot;Jakarta EE Bean Validation&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.beanValidation&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Bean Validation&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.hibernate.validator:hibernate-validator": {
-          "displayName": "Hibernate Validator",
-          "pluginData": {
-            "pluginIdString": "com.intellij.beanValidation",
-            "nullablePluginName": "Jakarta EE: Bean Validation",
-            "isBundled": true
+        &quot;java:org.hibernate.validator:hibernate-validator&quot;: {
+          &quot;displayName&quot;: &quot;Hibernate Validator&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.beanValidation&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Bean Validation&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework:spring-core": {
-          "displayName": "Spring",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring",
-            "nullablePluginName": "Spring",
-            "isBundled": true
+        &quot;java:org.springframework:spring-core&quot;: {
+          &quot;displayName&quot;: &quot;Spring&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework.security:spring-security-core": {
-          "displayName": "Spring Security",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.security",
-            "nullablePluginName": "Spring Security",
-            "isBundled": true
+        &quot;java:org.springframework.security:spring-security-core&quot;: {
+          &quot;displayName&quot;: &quot;Spring Security&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.security&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Security&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework.boot:spring-boot": {
-          "displayName": "Spring Boot",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.boot",
-            "nullablePluginName": "Spring Boot",
-            "isBundled": true
+        &quot;java:org.springframework.boot:spring-boot&quot;: {
+          &quot;displayName&quot;: &quot;Spring Boot&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.boot&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Boot&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework.cloud:spring-cloud-context": {
-          "displayName": "Spring Cloud",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.cloud",
-            "nullablePluginName": "Spring Cloud",
-            "isBundled": true
+        &quot;java:org.springframework.cloud:spring-cloud-context&quot;: {
+          &quot;displayName&quot;: &quot;Spring Cloud&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.cloud&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Cloud&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework.cloud:spring-cloud-stream": {
-          "displayName": "Spring Cloud Stream",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.cloud",
-            "nullablePluginName": "Spring Cloud",
-            "isBundled": true
+        &quot;java:org.springframework.cloud:spring-cloud-stream&quot;: {
+          &quot;displayName&quot;: &quot;Spring Cloud Stream&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.cloud&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Cloud&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework:spring-messaging": {
-          "displayName": "Spring Messaging",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.messaging",
-            "nullablePluginName": "Spring Messaging",
-            "isBundled": true
+        &quot;java:org.springframework:spring-messaging&quot;: {
+          &quot;displayName&quot;: &quot;Spring Messaging&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.messaging&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Messaging&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework.data:spring-data-commons": {
-          "displayName": "Spring Data",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.data",
-            "nullablePluginName": "Spring Data",
-            "isBundled": true
+        &quot;java:org.springframework.data:spring-data-commons&quot;: {
+          &quot;displayName&quot;: &quot;Spring Data&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.data&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Data&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework.integration:spring-integration-core": {
-          "displayName": "Spring Integration",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.integration",
-            "nullablePluginName": "Spring Integration Patterns",
-            "isBundled": true
+        &quot;java:org.springframework.integration:spring-integration-core&quot;: {
+          &quot;displayName&quot;: &quot;Spring Integration&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.integration&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Integration Patterns&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:javax.enterprise:cdi-api": {
-          "displayName": "Java EE CDI",
-          "pluginData": {
-            "pluginIdString": "com.intellij.cdi",
-            "nullablePluginName": "Jakarta EE: Contexts and Dependency Injection (CDI)",
-            "isBundled": true
+        &quot;java:javax.enterprise:cdi-api&quot;: {
+          &quot;displayName&quot;: &quot;Java EE CDI&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.cdi&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Contexts and Dependency Injection (CDI)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:jakarta.enterprise:jakarta.enterprise.cdi-api": {
-          "displayName": "Jakarta EE CDI",
-          "pluginData": {
-            "pluginIdString": "com.intellij.cdi",
-            "nullablePluginName": "Jakarta EE: Contexts and Dependency Injection (CDI)",
-            "isBundled": true
+        &quot;java:jakarta.enterprise:jakarta.enterprise.cdi-api&quot;: {
+          &quot;displayName&quot;: &quot;Jakarta EE CDI&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.cdi&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Contexts and Dependency Injection (CDI)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.jboss.weld:weld-core-impl": {
-          "displayName": "Weld",
-          "pluginData": {
-            "pluginIdString": "com.intellij.cdi",
-            "nullablePluginName": "Jakarta EE: Contexts and Dependency Injection (CDI)",
-            "isBundled": true
+        &quot;java:org.jboss.weld:weld-core-impl&quot;: {
+          &quot;displayName&quot;: &quot;Weld&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.cdi&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Contexts and Dependency Injection (CDI)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.testng:testng": {
-          "displayName": "TestNG",
-          "pluginData": {
-            "pluginIdString": "TestNG-J",
-            "nullablePluginName": "TestNG",
-            "isBundled": true
+        &quot;java:org.testng:testng&quot;: {
+          &quot;displayName&quot;: &quot;TestNG&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;TestNG-J&quot;,
+            &quot;nullablePluginName&quot;: &quot;TestNG&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:javax.ws.rs:javax.ws.rs-api": {
-          "displayName": "Java EE RESTful WS",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.restWebServices",
-            "nullablePluginName": "Jakarta EE: RESTful Web Services (JAX-RS)",
-            "isBundled": true
+        &quot;java:javax.ws.rs:javax.ws.rs-api&quot;: {
+          &quot;displayName&quot;: &quot;Java EE RESTful WS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.restWebServices&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: RESTful Web Services (JAX-RS)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:jakarta.ws.rs:jakarta.ws.rs-api": {
-          "displayName": "Jakarta EE RESTful WS",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.restWebServices",
-            "nullablePluginName": "Jakarta EE: RESTful Web Services (JAX-RS)",
-            "isBundled": true
+        &quot;java:jakarta.ws.rs:jakarta.ws.rs-api&quot;: {
+          &quot;displayName&quot;: &quot;Jakarta EE RESTful WS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.restWebServices&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: RESTful Web Services (JAX-RS)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.jboss.resteasy:resteasy-core": {
-          "displayName": "Jakarta EE RESTful WS",
-          "pluginData": {
-            "pluginIdString": "com.jetbrains.restWebServices",
-            "nullablePluginName": "Jakarta EE: RESTful Web Services (JAX-RS)",
-            "isBundled": true
+        &quot;java:org.jboss.resteasy:resteasy-core&quot;: {
+          &quot;displayName&quot;: &quot;Jakarta EE RESTful WS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.jetbrains.restWebServices&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: RESTful Web Services (JAX-RS)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.quarkus:quarkus-core": {
-          "displayName": "Quarkus",
-          "pluginData": {
-            "pluginIdString": "com.intellij.quarkus",
-            "nullablePluginName": "Quarkus",
-            "isBundled": true
+        &quot;java:io.quarkus:quarkus-core&quot;: {
+          &quot;displayName&quot;: &quot;Quarkus&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.quarkus&quot;,
+            &quot;nullablePluginName&quot;: &quot;Quarkus&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:react": {
-          "displayName": "React",
-          "pluginData": {
-            "pluginIdString": "JavaScript",
-            "nullablePluginName": "JavaScript and TypeScript",
-            "isBundled": true
+        &quot;javascript:npm:react&quot;: {
+          &quot;displayName&quot;: &quot;React&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JavaScript&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaScript and TypeScript&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:webpack": {
-          "displayName": "Webpack",
-          "pluginData": {
-            "pluginIdString": "intellij.webpack",
-            "nullablePluginName": "Webpack",
-            "isBundled": true
+        &quot;javascript:npm:webpack&quot;: {
+          &quot;displayName&quot;: &quot;Webpack&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.webpack&quot;,
+            &quot;nullablePluginName&quot;: &quot;Webpack&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vite": {
-          "displayName": "Vite",
-          "pluginData": {
-            "pluginIdString": "intellij.vitejs",
-            "nullablePluginName": "Vite",
-            "isBundled": true
+        &quot;javascript:npm:vite&quot;: {
+          &quot;displayName&quot;: &quot;Vite&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.vitejs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vite&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:vue": {
-          "displayName": "Vue.js",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:vue&quot;: {
+          &quot;displayName&quot;: &quot;Vue.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:nuxt": {
-          "displayName": "Nuxt",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.vue",
-            "nullablePluginName": "Vue.js",
-            "isBundled": true
+        &quot;javascript:npm:nuxt&quot;: {
+          &quot;displayName&quot;: &quot;Nuxt&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.vue&quot;,
+            &quot;nullablePluginName&quot;: &quot;Vue.js&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:junit:junit": {
-          "displayName": "JUnit",
-          "pluginData": {
-            "pluginIdString": "JUnit",
-            "nullablePluginName": "JUnit",
-            "isBundled": true
+        &quot;java:junit:junit&quot;: {
+          &quot;displayName&quot;: &quot;JUnit&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;JUnit&quot;,
+            &quot;nullablePluginName&quot;: &quot;JUnit&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.openjfx:javafx-base": {
-          "displayName": "JavaFX",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.javaFX",
-            "nullablePluginName": "JavaFX",
-            "isBundled": true
+        &quot;java:org.openjfx:javafx-base&quot;: {
+          &quot;displayName&quot;: &quot;JavaFX&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.javaFX&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaFX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.micronaut:micronaut-core": {
-          "displayName": "Micronaut",
-          "pluginData": {
-            "pluginIdString": "com.intellij.micronaut",
-            "nullablePluginName": "Micronaut",
-            "isBundled": true
+        &quot;java:io.micronaut:micronaut-core&quot;: {
+          &quot;displayName&quot;: &quot;Micronaut&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.micronaut&quot;,
+            &quot;nullablePluginName&quot;: &quot;Micronaut&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.reactivex.rxjava3:rxjava": {
-          "displayName": "RXJava",
-          "pluginData": {
-            "pluginIdString": "com.intellij.reactivestreams",
-            "nullablePluginName": "Reactive Streams",
-            "isBundled": true
+        &quot;java:io.reactivex.rxjava3:rxjava&quot;: {
+          &quot;displayName&quot;: &quot;RXJava&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.reactivestreams&quot;,
+            &quot;nullablePluginName&quot;: &quot;Reactive Streams&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.reactivex.rxjava2:rxjava": {
-          "displayName": "RXJava",
-          "pluginData": {
-            "pluginIdString": "com.intellij.reactivestreams",
-            "nullablePluginName": "Reactive Streams",
-            "isBundled": true
+        &quot;java:io.reactivex.rxjava2:rxjava&quot;: {
+          &quot;displayName&quot;: &quot;RXJava&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.reactivestreams&quot;,
+            &quot;nullablePluginName&quot;: &quot;Reactive Streams&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.projectreactor:reactor-core": {
-          "displayName": "Reactor",
-          "pluginData": {
-            "pluginIdString": "com.intellij.reactivestreams",
-            "nullablePluginName": "Reactive Streams",
-            "isBundled": true
+        &quot;java:io.projectreactor:reactor-core&quot;: {
+          &quot;displayName&quot;: &quot;Reactor&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.reactivestreams&quot;,
+            &quot;nullablePluginName&quot;: &quot;Reactive Streams&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.smallrye.reactive:mutiny": {
-          "displayName": "Mutiny",
-          "pluginData": {
-            "pluginIdString": "com.intellij.reactivestreams",
-            "nullablePluginName": "Reactive Streams",
-            "isBundled": true
+        &quot;java:io.smallrye.reactive:mutiny&quot;: {
+          &quot;displayName&quot;: &quot;Mutiny&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.reactivestreams&quot;,
+            &quot;nullablePluginName&quot;: &quot;Reactive Streams&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "maven-packaging:war": {
-          "displayName": "WAR Maven Packaging",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee.web",
-            "nullablePluginName": "Jakarta EE: Web/Servlets",
-            "isBundled": true
+        &quot;maven-packaging:war&quot;: {
+          &quot;displayName&quot;: &quot;WAR Maven Packaging&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee.web&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Web/Servlets&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "maven-packaging:ear": {
-          "displayName": "EAR Maven Packaging",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee.web",
-            "nullablePluginName": "Jakarta EE: Web/Servlets",
-            "isBundled": true
+        &quot;maven-packaging:ear&quot;: {
+          &quot;displayName&quot;: &quot;EAR Maven Packaging&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee.web&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Web/Servlets&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.thymeleaf:thymeleaf": {
-          "displayName": "Thymeleaf",
-          "pluginData": {
-            "pluginIdString": "com.intellij.thymeleaf",
-            "nullablePluginName": "Thymeleaf",
-            "isBundled": true
+        &quot;java:org.thymeleaf:thymeleaf&quot;: {
+          &quot;displayName&quot;: &quot;Thymeleaf&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.thymeleaf&quot;,
+            &quot;nullablePluginName&quot;: &quot;Thymeleaf&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.cucumber:cucumber-java8": {
-          "displayName": "Cucumber",
-          "pluginData": {
-            "pluginIdString": "cucumber-java",
-            "nullablePluginName": "Cucumber for Java",
-            "isBundled": true
+        &quot;java:io.cucumber:cucumber-java8&quot;: {
+          &quot;displayName&quot;: &quot;Cucumber&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;cucumber-java&quot;,
+            &quot;nullablePluginName&quot;: &quot;Cucumber for Java&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.cucumber:cucumber-java": {
-          "displayName": "Cucumber",
-          "pluginData": {
-            "pluginIdString": "cucumber-java",
-            "nullablePluginName": "Cucumber for Java",
-            "isBundled": true
+        &quot;java:io.cucumber:cucumber-java&quot;: {
+          &quot;displayName&quot;: &quot;Cucumber&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;cucumber-java&quot;,
+            &quot;nullablePluginName&quot;: &quot;Cucumber for Java&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:io.cucumber:cucumber-groovy": {
-          "displayName": "Cucumber",
-          "pluginData": {
-            "pluginIdString": "cucumber-groovy",
-            "nullablePluginName": "Cucumber for Groovy",
-            "isBundled": true
+        &quot;java:io.cucumber:cucumber-groovy&quot;: {
+          &quot;displayName&quot;: &quot;Cucumber&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;cucumber-groovy&quot;,
+            &quot;nullablePluginName&quot;: &quot;Cucumber for Groovy&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.eclipse.persistence:javax.persistence": {
-          "displayName": "Eclipse JPA",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee.jpa",
-            "nullablePluginName": "Jakarta EE: Persistence (JPA)",
-            "isBundled": true
+        &quot;java:org.eclipse.persistence:javax.persistence&quot;: {
+          &quot;displayName&quot;: &quot;Eclipse JPA&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee.jpa&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Persistence (JPA)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:javax.persistence:javax.persistence-api": {
-          "displayName": "Java EE JPA",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee.jpa",
-            "nullablePluginName": "Jakarta EE: Persistence (JPA)",
-            "isBundled": true
+        &quot;java:javax.persistence:javax.persistence-api&quot;: {
+          &quot;displayName&quot;: &quot;Java EE JPA&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee.jpa&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Persistence (JPA)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:jakarta.persistence:jakarta.persistence-api": {
-          "displayName": "Jakarta EE JPA",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee.jpa",
-            "nullablePluginName": "Jakarta EE: Persistence (JPA)",
-            "isBundled": true
+        &quot;java:jakarta.persistence:jakarta.persistence-api&quot;: {
+          &quot;displayName&quot;: &quot;Jakarta EE JPA&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee.jpa&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE: Persistence (JPA)&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:tslint": {
-          "displayName": "TSLint",
-          "pluginData": {
-            "pluginIdString": "tslint",
-            "nullablePluginName": "TSLint",
-            "isBundled": true
+        &quot;javascript:npm:tslint&quot;: {
+          &quot;displayName&quot;: &quot;TSLint&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;tslint&quot;,
+            &quot;nullablePluginName&quot;: &quot;TSLint&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:next": {
-          "displayName": "Next.js",
-          "pluginData": {
-            "pluginIdString": "intellij.nextjs",
-            "nullablePluginName": "Next.js Support",
-            "isBundled": true
+        &quot;javascript:npm:next&quot;: {
+          &quot;displayName&quot;: &quot;Next.js&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.nextjs&quot;,
+            &quot;nullablePluginName&quot;: &quot;Next.js Support&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:tailwindcss": {
-          "displayName": "Tailwind CSS",
-          "pluginData": {
-            "pluginIdString": "com.intellij.tailwindcss",
-            "nullablePluginName": "Tailwind CSS",
-            "isBundled": true
+        &quot;javascript:npm:tailwindcss&quot;: {
+          &quot;displayName&quot;: &quot;Tailwind CSS&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.tailwindcss&quot;,
+            &quot;nullablePluginName&quot;: &quot;Tailwind CSS&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:styled-components": {
-          "displayName": "Styled Components",
-          "pluginData": {
-            "pluginIdString": "com.deadlock.scsyntax",
-            "nullablePluginName": "Styled Components & Styled JSX",
-            "isBundled": true
+        &quot;javascript:npm:styled-components&quot;: {
+          &quot;displayName&quot;: &quot;Styled Components&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.deadlock.scsyntax&quot;,
+            &quot;nullablePluginName&quot;: &quot;Styled Components &amp; Styled JSX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:prettier": {
-          "displayName": "Prettier",
-          "pluginData": {
-            "pluginIdString": "intellij.prettierJS",
-            "nullablePluginName": "Prettier",
-            "isBundled": true
+        &quot;javascript:npm:prettier&quot;: {
+          &quot;displayName&quot;: &quot;Prettier&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;intellij.prettierJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Prettier&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:karma": {
-          "displayName": "Karma",
-          "pluginData": {
-            "pluginIdString": "Karma",
-            "nullablePluginName": "Karma",
-            "isBundled": true
+        &quot;javascript:npm:karma&quot;: {
+          &quot;displayName&quot;: &quot;Karma&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;Karma&quot;,
+            &quot;nullablePluginName&quot;: &quot;Karma&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "java:org.springframework:spring-webmvc": {
-          "displayName": "Spring MVC",
-          "pluginData": {
-            "pluginIdString": "com.intellij.spring.mvc",
-            "nullablePluginName": "Spring Web",
-            "isBundled": true
+        &quot;java:org.springframework:spring-webmvc&quot;: {
+          &quot;displayName&quot;: &quot;Spring MVC&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.spring.mvc&quot;,
+            &quot;nullablePluginName&quot;: &quot;Spring Web&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javascript:npm:@angular/core": {
-          "displayName": "Angular",
-          "pluginData": {
-            "pluginIdString": "AngularJS",
-            "nullablePluginName": "Angular and AngularJS",
-            "isBundled": true
+        &quot;javascript:npm:@angular/core&quot;: {
+          &quot;displayName&quot;: &quot;Angular&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;AngularJS&quot;,
+            &quot;nullablePluginName&quot;: &quot;Angular and AngularJS&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     },
-    "com.intellij.packaging.artifacts.ArtifactType": {
-      "featureMap": {
-        "jar": {
-          "displayName": "JAR",
-          "pluginData": {
-            "pluginIdString": "com.intellij.java",
-            "nullablePluginName": "Java",
-            "isBundled": true
+    &quot;com.intellij.packaging.artifacts.ArtifactType&quot;: {
+      &quot;featureMap&quot;: {
+        &quot;jar&quot;: {
+          &quot;displayName&quot;: &quot;JAR&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.java&quot;,
+            &quot;nullablePluginName&quot;: &quot;Java&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "jlink": {
-          "displayName": "Run-time image (JLink)",
-          "pluginData": {
-            "pluginIdString": "com.intellij.java",
-            "nullablePluginName": "Java",
-            "isBundled": true
+        &quot;jlink&quot;: {
+          &quot;displayName&quot;: &quot;Run-time image (JLink)&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.java&quot;,
+            &quot;nullablePluginName&quot;: &quot;Java&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "exploded-war": {
-          "displayName": "Web Application: Exploded",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee",
-            "nullablePluginName": "Jakarta EE Platform",
-            "isBundled": true
+        &quot;exploded-war&quot;: {
+          &quot;displayName&quot;: &quot;Web Application: Exploded&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE Platform&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "war": {
-          "displayName": "Web Application: Archive",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee",
-            "nullablePluginName": "Jakarta EE Platform",
-            "isBundled": true
+        &quot;war&quot;: {
+          &quot;displayName&quot;: &quot;Web Application: Archive&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE Platform&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "exploded-ear": {
-          "displayName": "Java EE Application: Exploded",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee",
-            "nullablePluginName": "Jakarta EE Platform",
-            "isBundled": true
+        &quot;exploded-ear&quot;: {
+          &quot;displayName&quot;: &quot;Java EE Application: Exploded&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE Platform&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "ear": {
-          "displayName": "Java EE Application: Archive",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee",
-            "nullablePluginName": "Jakarta EE Platform",
-            "isBundled": true
+        &quot;ear&quot;: {
+          &quot;displayName&quot;: &quot;Java EE Application: Archive&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE Platform&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "exploded-ejb": {
-          "displayName": "EJB Application: Exploded",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee",
-            "nullablePluginName": "Jakarta EE Platform",
-            "isBundled": true
+        &quot;exploded-ejb&quot;: {
+          &quot;displayName&quot;: &quot;EJB Application: Exploded&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE Platform&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "ejb-jar": {
-          "displayName": "EJB Application: Archive",
-          "pluginData": {
-            "pluginIdString": "com.intellij.javaee",
-            "nullablePluginName": "Jakarta EE Platform",
-            "isBundled": true
+        &quot;ejb-jar&quot;: {
+          &quot;displayName&quot;: &quot;EJB Application: Archive&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.javaee&quot;,
+            &quot;nullablePluginName&quot;: &quot;Jakarta EE Platform&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javafx": {
-          "displayName": "JavaFx application",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.javaFX",
-            "nullablePluginName": "JavaFX",
-            "isBundled": true
+        &quot;javafx&quot;: {
+          &quot;displayName&quot;: &quot;JavaFx application&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.javaFX&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaFX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "jpackage": {
-          "displayName": "Platform specific package",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.javaFX",
-            "nullablePluginName": "JavaFX",
-            "isBundled": true
+        &quot;jpackage&quot;: {
+          &quot;displayName&quot;: &quot;Platform specific package&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.javaFX&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaFX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "javafx-preloader": {
-          "displayName": "JavaFx preloader",
-          "pluginData": {
-            "pluginIdString": "org.jetbrains.plugins.javaFX",
-            "nullablePluginName": "JavaFX",
-            "isBundled": true
+        &quot;javafx-preloader&quot;: {
+          &quot;displayName&quot;: &quot;JavaFx preloader&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;org.jetbrains.plugins.javaFX&quot;,
+            &quot;nullablePluginName&quot;: &quot;JavaFX&quot;,
+            &quot;isBundled&quot;: true
           }
         },
-        "plain": {
-          "displayName": "Other",
-          "pluginData": {
-            "pluginIdString": "com.intellij.java",
-            "nullablePluginName": "Java",
-            "isBundled": true
+        &quot;plain&quot;: {
+          &quot;displayName&quot;: &quot;Other&quot;,
+          &quot;pluginData&quot;: {
+            &quot;pluginIdString&quot;: &quot;com.intellij.java&quot;,
+            &quot;nullablePluginName&quot;: &quot;Java&quot;,
+            &quot;isBundled&quot;: true
           }
         }
       }
     }
   }
-}]]></component>
+}</component>
   <component name="shared-index-jdk-hash">
     <option name="entries">
       <entry>
