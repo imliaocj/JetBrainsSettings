@@ -9,6 +9,7 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
+    "PluginConfigurable.selectionTab": "1",
     "ProjectStructure.SecondLevelElements": "0.18238993",
     "appcds.runOnSecondStart": "IU-232.9559.62-9362db079d67581695f94358c282b5e02dcaea23079dd1f6aa120c20ecd5e163",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -20,7 +21,6 @@
     "evlsprt3.232": "25",
     "experimental.ui.first.switch": "true",
     "experimental.ui.on.first.startup": "true",
-    "experimental.ui.switch": "true",
     "experimental.ui.used.version": "232.9559.62",
     "file.gist.reindex.count": "2",
     "fileTypeChangedCounter": "1",

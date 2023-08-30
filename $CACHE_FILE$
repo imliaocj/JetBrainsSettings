@@ -21423,7 +21423,8 @@
           }
         ]
       }
-    }
+    },
+    "lastUpdateTime": 1693366685087
   }
 }]]></component>
   <component name="PluginFeatureService"><![CDATA[{
@@ -22089,4 +22090,19 @@
     }
   }
 }]]></component>
+  <component name="shared-index-jdk-hash">
+    <option name="entries">
+      <entry>
+        <option name="aliases">
+          <list>
+            <option value="1.8.0_382" />
+            <option value="1.8" />
+          </list>
+        </option>
+        <option name="hash" value="3c442c7a376955cf4755104492c3661d10db4672" />
+        <option name="name" value="1.8" />
+        <option name="snapshotHash" value="0eae0beb54e6e8ea35fb546aa831822322182ef7c09059de1b4fccb3727728b8" />
+      </entry>
+    </option>
+  </component>
 </application>
