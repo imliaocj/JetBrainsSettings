@@ -1,5 +1,6 @@
 <application>
   <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
     <option name="presentationModeIdeScale" value="1.75" />
     <option name="overrideLafFonts" value="true" />
     <option name="overrideLafFontsWasMigrated" value="true" />
@@ -9,6 +10,8 @@
     "CWM_LOGGING_VERSION": "1",
     "bundled.plugins.list.saved.version": "IU-232.9559.62",
     "evlsprt3.232": "25",
+    "experimental.ui.first.switch": "true",
+    "experimental.ui.switch": "true",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
