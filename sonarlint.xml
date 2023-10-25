@@ -2,8 +2,10 @@
   <component name="SonarLintGlobalSettings">
     <option name="fileExclusions">
       <list>
-        <option value="src/main/test/**" />
         <option value="**/*{!.java}" />
+        <option value="**.*.js" />
+        <option value="**.*.html" />
+        <option value="src/main/test/**" />
       </list>
     </option>
     <rules />
