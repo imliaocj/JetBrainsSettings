@@ -8,6 +8,15 @@
         <option value="src/main/test/**" />
       </list>
     </option>
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://localhost:9090" />
+          <token>dfd9dfdbdfdadff5df98df9bdfc8df98df9ddf9adf92df92dfc8dfccdf99df98df9cdf92dfccdfc9df9cdf9adf9ddfcfdfc8df99dfcbdf9adfcedf98df9edfcbdf99dfcedf9edf9fdf93dfcfdfcedf9ddf98dfc9dfc8df9a</token>
+          <option name="name" value="LocalHost_SonarQube" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
