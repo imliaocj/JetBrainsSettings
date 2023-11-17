@@ -6,8 +6,8 @@
     <mask>*.cql</mask>
     <mask>*.ddl</mask>
     <mask>*.sql</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
