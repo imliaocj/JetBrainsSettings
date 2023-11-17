@@ -75,7 +75,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1697719249776" />
+    <option name="lastTrimTime" value="1700201932887" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -85,6 +85,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="required" />
       <item value="runner" />
       <item value="ex" />
       <item value="Illegal State Exception" />
@@ -134,12 +135,11 @@
       <item value="体积" />
       <item value="Refactor this method to reduce its Cognitive Complexity from 24 to the 15 allowed." />
       <item value="计算" />
-      <item value="direct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="61" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
