@@ -24,7 +24,11 @@
           </value>
         </entry>
         <entry key="ruoyi-generator" />
-        <entry key="xix-ccr-report-server" />
+        <entry key="xix-ccr-report-server">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="ziy-ccr-report-server" />
       </map>
     </option>
