@@ -81,6 +81,8 @@
     <option name="primaryLanguage" value="CHINESE" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogHeight" value="325" />
+    <option name="newTranslationDialogWidth" value="650" />
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="390" />
     <histories>

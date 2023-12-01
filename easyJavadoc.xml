@@ -3,39 +3,35 @@
     <option name="accessKeyId" value="" />
     <option name="accessKeySecret" value="" />
     <option name="appId" value="" />
-    <option name="author" value="liaocj" />
     <option name="genAllClass" value="true" />
     <option name="genAllField" value="false" />
     <option name="genAllInnerClass" value="false" />
     <option name="genAllMethod" value="false" />
-    <option name="kdocAuthor" value="liaocj" />
-    <option name="kdocSimpleFieldDoc" value="true" />
+    <option name="googleKey" value="" />
+    <option name="microsoftKey" value="" />
     <option name="projectWordMap">
       <map>
-        <entry key="RuoYi-Plus" />
-        <entry key="RuoYi-Vue" />
-        <entry key="ebr-customized-platform" />
-        <entry key="emg" />
-        <entry key="future-admin-harbin-braumat" />
-        <entry key="put-ccr-report-server" />
         <entry key="put-ccr-report-server-packaging">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="ruoyi-generator" />
+        <entry key="ruoyi-generator">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="xix-ccr-report-server">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="ziy-ccr-report-server" />
       </map>
     </option>
     <option name="secretId" value="" />
     <option name="secretKey" value="" />
-    <option name="simpleFieldDoc" value="true" />
     <option name="token" value="" />
+    <option name="translator" value="微软免费翻译" />
     <option name="youdaoAppKey" value="" />
     <option name="youdaoAppSecret" value="" />
   </component>

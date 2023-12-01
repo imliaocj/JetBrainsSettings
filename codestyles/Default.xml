@@ -7,6 +7,7 @@
     <option name="ALIGN_MULTILINE_ANNOTATION_PARAMETERS" value="true" />
     <option name="ALIGN_MULTILINE_TEXT_BLOCKS" value="true" />
     <option name="SPACE_INSIDE_ONE_LINE_ENUM_BRACES" value="true" />
+    <option name="JD_DO_NOT_WRAP_ONE_LINE_COMMENTS" value="true" />
   </JavaCodeStyleSettings>
   <XML>
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
