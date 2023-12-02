@@ -16,16 +16,8 @@
             <map />
           </value>
         </entry>
-        <entry key="ruoyi-generator">
-          <value>
-            <map />
-          </value>
-        </entry>
-        <entry key="xix-ccr-report-server">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="ruoyi-generator" />
+        <entry key="xix-ccr-report-server" />
       </map>
     </option>
     <option name="secretId" value="" />
