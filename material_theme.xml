@@ -8,6 +8,9 @@
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
     <option name="accentColor" value="009688" />
+    <option name="secondAccentColor" />
+    <option name="highlightColor" />
+    <option name="focusColor" />
     <option name="userId" value="-3b1b6368:18bef9af00a:-8000" />
     <option name="version" value="8.12.6" />
   </component>
