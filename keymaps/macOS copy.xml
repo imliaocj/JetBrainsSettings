@@ -1,0 +1,4 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="AIAssistant.Editor.CompleteCodeWithAI" />
+  <action id="AIAssistant.Editor.GenerateCodeInplace" />
+</keymap>
