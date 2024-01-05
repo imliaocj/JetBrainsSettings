@@ -86,6 +86,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="renumber" />
       <item value="Predicate:" />
       <item value="Deprecated As of release v1.14.1, this class is deprecated in favour of Safelist. The name has been changed with the intent of promoting more inclusive language. Safelist is a drop-in replacement, and no further changes other than updating the name in your code are required to cleanly migrate. This class will be removed in v1.15.1. Until that release, this class acts as a shim to maintain code compatibility (source and binary). For a clear rationale of the removal of this change, please see" />
       <item value="required" />
@@ -135,12 +136,11 @@
       <item value="YBRT液位" />
       <item value="液位" />
       <item value="报表" />
-      <item value="体积" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="64" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
