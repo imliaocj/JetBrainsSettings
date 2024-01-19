@@ -86,6 +86,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="开始时间" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of org.apache.ibatis.session.Configuration" />
       <item value="renumber" />
       <item value="Predicate:" />
@@ -135,11 +136,10 @@
       <item value="Field" />
       <item value="LIQUID" />
       <item value="YBRT液位" />
-      <item value="液位" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="SPANISH" value="1" />
       </map>
