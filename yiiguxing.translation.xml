@@ -75,7 +75,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1704032204799" />
+    <option name="lastTrimTime" value="1705644959784" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -86,6 +86,7 @@
     <option name="newTranslationDialogX" value="575" />
     <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="Correct the classpath of your application so that it contains a single, compatible version of org.apache.ibatis.session.Configuration" />
       <item value="renumber" />
       <item value="Predicate:" />
       <item value="Deprecated As of release v1.14.1, this class is deprecated in favour of Safelist. The name has been changed with the intent of promoting more inclusive language. Safelist is a drop-in replacement, and no further changes other than updating the name in your code are required to cleanly migrate. This class will be removed in v1.15.1. Until that release, this class acts as a shim to maintain code compatibility (source and binary). For a clear rationale of the removal of this change, please see" />
@@ -135,12 +136,11 @@
       <item value="LIQUID" />
       <item value="YBRT液位" />
       <item value="液位" />
-      <item value="报表" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
+        <entry key="CHINESE" value="65" />
+        <entry key="ENGLISH" value="66" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
