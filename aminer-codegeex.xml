@@ -11,6 +11,7 @@
     <option name="serverConfig">
       <JsonObject />
     </option>
+    <option name="completionV3" value="0" />
     <option name="lastPluginVersion" value="2.4.0" />
   </component>
 </application>
