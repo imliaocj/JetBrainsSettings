@@ -1,16 +1,13 @@
 <application>
   <component name="aminer-codegeex">
     <option name="sessionId" value="cff99a3d-8358-49a0-8b4a-1c980fb16dc7" />
-    <option name="macAddress" value="CE-F5-E0-5D-5D-E3" />
+    <option name="macAddress" value="FA-26-23-16-BB-49" />
     <option name="userId" value="85390b76ce194ff7bc8d3642f671c579" />
     <option name="userName" value="liaocj" />
     <option name="source" value="wechat_open" />
     <option name="sourceId" value="oTz1V6FHrMjlejnR2d5IbfQNsjxU" />
     <option name="configCacheSeconds" value="43200" />
     <option name="minCompletionDelay" value="500" />
-    <option name="serverConfig">
-      <JsonObject />
-    </option>
-    <option name="lastPluginVersion" value="2.4.0" />
+    <option name="lastPluginVersion" value="2.7.2" />
   </component>
 </application>
