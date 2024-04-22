@@ -5,6 +5,7 @@
     <option name="rainbowifyTagNameInXML" value="true" />
     <option name="suppressAdvancedIndentGuidesBanner" value="true" />
     <option name="suppressBigFileCheck" value="true" />
+    <option name="suppressLicenseBanner" value="true" />
     <option name="version" value="2024.2.3-241" />
   </component>
 </application>
