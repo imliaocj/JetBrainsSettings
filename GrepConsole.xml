@@ -61,15 +61,6 @@
           </option>
         </GrepCompositeModel>
         <GrepCompositeModel>
-          <option name="models">
-            <list>
-              <GrepModel>
-                <option name="expression" value="" />
-              </GrepModel>
-            </list>
-          </option>
-        </GrepCompositeModel>
-        <GrepCompositeModel>
           <option name="beforeAfterModel">
             <GrepBeforeAfterModel>
               <option name="after" value="3" />
@@ -93,6 +84,15 @@
             <list>
               <GrepModel>
                 <option name="expression" value="ERROR" />
+              </GrepModel>
+            </list>
+          </option>
+        </GrepCompositeModel>
+        <GrepCompositeModel>
+          <option name="models">
+            <list>
+              <GrepModel>
+                <option name="expression" value="" />
               </GrepModel>
             </list>
           </option>

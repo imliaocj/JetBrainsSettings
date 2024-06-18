@@ -75,18 +75,15 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1706154263881" />
+    <option name="lastTrimTime" value="1718716408560" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="325" />
-    <option name="newTranslationDialogWidth" value="650" />
-    <option name="newTranslationDialogX" value="575" />
-    <option name="newTranslationDialogY" value="390" />
     <histories>
+      <item value="technical standard mapper" />
       <item value="NEGATIVE INFINITY" />
       <item value="开始时间" />
       <item value="Correct the classpath of your application so that it contains a single, compatible version of org.apache.ibatis.session.Configuration" />
@@ -136,7 +133,6 @@
       <item value="Entry" />
       <item value="字段" />
       <item value="Field" />
-      <item value="LIQUID" />
     </histories>
     <option name="languageScores">
       <map>
