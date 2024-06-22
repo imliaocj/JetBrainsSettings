@@ -1,7 +1,7 @@
 <application>
   <component name="aminer-codegeex">
     <option name="sessionId" value="cff99a3d-8358-49a0-8b4a-1c980fb16dc7" />
-    <option name="macAddress" value="52-7E-35-C4-FD-F1" />
+    <option name="macAddress" value="1A-F4-C2-98-AB-E2" />
     <option name="userId" value="85390b76ce194ff7bc8d3642f671c579" />
     <option name="userName" value="liaocj" />
     <option name="source" value="wechat_open" />
@@ -13,7 +13,7 @@
     </option>
     <option name="autoUpdateVersion" value="2.7.3" />
     <option name="autoUpdateProperty" value="{ &quot;auto&quot;: true, &quot;is_force&quot;: false }" />
-    <option name="applyNextLineCount" value="16" />
+    <option name="applyNextLineCount" value="17" />
     <option name="lastPluginVersion" value="2.8.0-223" />
   </component>
 </application>
