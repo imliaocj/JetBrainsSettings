@@ -14,13 +14,13 @@
         <entry key="JavaHelloWord" />
         <entry key="future-admin-harbin-braumat" />
         <entry key="haitai-material" />
-        <entry key="haitai-material-backend">
+        <entry key="haitai-material-backend" />
+        <entry key="put-ccr-report-server-packaging" />
+        <entry key="xix-ccr-report-server">
           <value>
             <map />
           </value>
         </entry>
-        <entry key="put-ccr-report-server-packaging" />
-        <entry key="xix-ccr-report-server" />
       </map>
     </option>
     <option name="secretId" value="" />
