@@ -16,11 +16,7 @@
         <entry key="haitai-material" />
         <entry key="haitai-material-backend" />
         <entry key="put-ccr-report-server-packaging" />
-        <entry key="xix-ccr-report-server">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="xix-ccr-report-server" />
       </map>
     </option>
     <option name="secretId" value="" />
