@@ -8,6 +8,7 @@
         <option value="src/main/test/**" />
       </list>
     </option>
+    <option name="nodejsPath" value="$USER_HOME$/.asdf/shims/npm" />
     <option name="sonarQubeServers">
       <list>
         <SonarQubeServer>
