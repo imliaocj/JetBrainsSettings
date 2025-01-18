@@ -10,7 +10,7 @@
     <mask>*.vm</mask>
     <mask>*.js</mask>
     <mask>*.xml</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
