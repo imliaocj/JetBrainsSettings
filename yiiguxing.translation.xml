@@ -75,7 +75,7 @@
     <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1718716408560" />
+    <option name="lastTrimTime" value="1737594720114" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="CHINESE" />
@@ -83,6 +83,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="peity" />
       <item value="technical standard mapper" />
       <item value="NEGATIVE INFINITY" />
       <item value="开始时间" />
@@ -132,12 +133,12 @@
       <item value="进入" />
       <item value="Entry" />
       <item value="字段" />
-      <item value="Field" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="66" />
-        <entry key="ENGLISH" value="67" />
+        <entry key="CHINESE_SIMPLIFIED" value="1" />
+        <entry key="ENGLISH" value="68" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
