@@ -4,6 +4,7 @@
       <Profile>
         <option name="checkUsage" value="2" />
         <option name="maxMeetContext" value="104" />
+        <option name="valid" value="true" />
       </Profile>
     </option>
   </component>
