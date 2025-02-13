@@ -7,7 +7,7 @@
       <JsonObject />
     </option>
     <option name="sessionId" value="cff99a3d-8358-49a0-8b4a-1c980fb16dc7" />
-    <option name="macAddress" value="DE-BB-7E-B2-4A-3E" />
+    <option name="macAddress" value="C6-DB-47-53-31-74" />
     <option name="userId" value="85390b76ce194ff7bc8d3642f671c579" />
     <option name="userName" value="liaocj" />
     <option name="source" value="wechat_open" />
@@ -16,7 +16,7 @@
     <option name="minCompletionDelay" value="500" />
     <option name="autoUpdateVersion" value="2.19.0" />
     <option name="autoUpdateProperty" value="{&quot;auto&quot;:true, &quot;is_force&quot;:false}" />
-    <option name="applyNextLineCount" value="5" />
+    <option name="applyNextLineCount" value="6" />
     <option name="silentTimeStamp" value="1737730811" />
     <option name="adjustedCompletionDelay" value="500" />
     <option name="promptLimitTestingPrefix" value="1024" />
