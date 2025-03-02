@@ -84,6 +84,7 @@
         <option value="yml" />
       </list>
     </option>
+    <option name="inlayHintsTypeString" value="null" />
     <option name="lastPluginVersion" value="2.21.1-223" />
   </component>
 </application>
