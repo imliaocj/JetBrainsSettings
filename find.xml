@@ -7,14 +7,15 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.cql</mask>
     <mask>*.ddl</mask>
-    <mask>*.yml</mask>
     <mask>*.sql</mask>
     <mask>*.js</mask>
     <mask>*.vm</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
