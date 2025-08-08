@@ -81,6 +81,7 @@
       </list>
     </option>
     <option name="inlayHintsTypeString" value="null" />
+    <option name="inlineChatDataString" value="{&quot;/Users/liaocj/workspace/SZCloud/szcloud-manager-service/ruoyi-common/ruoyi-common-mybatis/src/main/java/org/dromara/common/mybatis/core/mapper/BaseMapperPlus.java&quot;:{&quot;psiElementType&quot;:&quot;Method&quot;,&quot;textRange&quot;:{&quot;myStartOffset&quot;:3071,&quot;myEndOffset&quot;:3361}}}" />
     <option name="lastPluginVersion" value="2.21.1-223" />
   </component>
 </application>
