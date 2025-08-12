@@ -16,7 +16,11 @@
         <entry key="haitai-material" />
         <entry key="haitai-material-backend" />
         <entry key="put-ccr-report-server-packaging" />
-        <entry key="szcloud-manager-service" />
+        <entry key="szcloud-manager-service">
+          <value>
+            <map />
+          </value>
+        </entry>
         <entry key="xix-ccr-report-server" />
       </map>
     </option>
