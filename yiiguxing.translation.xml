@@ -1,146 +1,28 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="597" />
-    <option name="newTranslationDialogY" value="434" />
+    <option name="newTranslationDialogX" value="2324" />
+    <option name="newTranslationDialogY" value="336" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="exclude" />
-      <item value="enviroment" />
-      <item value="Digit" />
-      <item value="Digits" />
-      <item value="日期" />
-      <item value="二楼" />
-      <item value="一楼" />
-      <item value="wort" />
-      <item value="association" />
-      <item value="multiple" />
-      <item value="allocated" />
-      <item value="condition" />
-      <item value="THIRD" />
-      <item value="a slash isn't required if there is no file name" />
-      <item value="algorithm" />
-      <item value="escape" />
-      <item value="AUTOMATIC" />
-      <item value="first" />
-      <item value="Principal" />
-      <item value="true" />
-      <item value="datasource" />
-      <item value="symbol" />
-      <item value="Prime Number" />
-      <item value="质数" />
-      <item value="不死神兔" />
-      <item value="不死神 " />
-      <item value="不" />
-      <item value="鸡" />
-      <item value="print counter number" />
-      <item value="print counter numbers" />
-      <item value="打印计数器数字" />
-      <item value="厚度" />
-      <item value="厚度&#10;" />
-      <item value="remainder" />
-      <item value="Manager" />
-      <item value="Query" />
-      <item value="Statement" />
-      <item value="hello" />
-      <item value="h" />
-      <item value="Bubble Sort" />
-      <item value="冒泡排序" />
-      <item value="冒泡" />
-      <item value="filter" />
-      <item value="java: 程序包org.springframework.boot不存在" />
-      <item value="Provides transitive vulnerable dependency com.alibaba.nacos:nacos-client:2.0.4" />
-      <item value="additivity" />
-      <item value="discovery" />
-      <item value="block" />
-      <item value="delegate" />
-      <item value="Interceptor" />
+      <item value="yes" />
+      <item value="Jsoup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="64" />
-        <entry key="ENGLISH" value="65" />
-        <entry key="GERMAN" value="1" />
+        <entry key="CHINESE" value="2" />
+        <entry key="ENGLISH" value="1" />
         <entry key="CZECH" value="2" />
-        <entry key="GREEK" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669458955901" />
+    <option name="lastTrimTime" value="1660012938013" />
   </component>
   <component name="Settings">
     <option name="foldOriginal" value="true" />
     <option name="keepFormat" value="true" />
-    <option name="showExplanation" value="true" />
-    <option name="showWordsOnStartup" value="true" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1737594720114" />
-  </component>
-  <component name="Translation.Settings">
-    <option name="primaryLanguage" value="CHINESE" />
-    <option name="translator" value="MICROSOFT" />
-  </component>
-  <component name="Translation.States">
-    <histories>
-      <item value="peity" />
-      <item value="technical standard mapper" />
-      <item value="NEGATIVE INFINITY" />
-      <item value="开始时间" />
-      <item value="Correct the classpath of your application so that it contains a single, compatible version of org.apache.ibatis.session.Configuration" />
-      <item value="renumber" />
-      <item value="Predicate:" />
-      <item value="Deprecated As of release v1.14.1, this class is deprecated in favour of Safelist. The name has been changed with the intent of promoting more inclusive language. Safelist is a drop-in replacement, and no further changes other than updating the name in your code are required to cleanly migrate. This class will be removed in v1.15.1. Until that release, this class acts as a shim to maintain code compatibility (source and binary). For a clear rationale of the removal of this change, please see" />
-      <item value="required" />
-      <item value="runner" />
-      <item value="ex" />
-      <item value="Illegal State Exception" />
-      <item value="MINUTE" />
-      <item value="修补的" />
-      <item value="subtract" />
-      <item value="Your application is free to assign client handles by whatever means necessary." />
-      <item value="queue Size" />
-      <item value="create Subscription" />
-      <item value="DEFAULT MAX NOTIFICATIONS PER PUBLISH" />
-      <item value="divide" />
-      <item value="increment" />
-      <item value="supports GET, HEAD, POST, PUT, PATCH, and DELETE only." />
-      <item value="fourth" />
-      <item value="Fourth" />
-      <item value="divisor" />
-      <item value="系统工单" />
-      <item value="批次订单" />
-      <item value="rx" />
-      <item value="Organization" />
-      <item value="参数" />
-      <item value="获取" />
-      <item value="format" />
-      <item value="Category" />
-      <item value="fifth" />
-      <item value="FOURTH" />
-      <item value="第五" />
-      <item value="FIVETH" />
-      <item value="第四" />
-      <item value="boundary Gap" />
-      <item value="Range" />
-      <item value="Aspect" />
-      <item value="Judgment" />
-      <item value="生成报表" />
-      <item value="赋值方式" />
-      <item value="rsponsibility" />
-      <item value="责任链" />
-      <item value="自定义" />
-      <item value="进入" />
-      <item value="Entry" />
-      <item value="字段" />
-    </histories>
-    <option name="languageScores">
-      <map>
-        <entry key="CHINESE" value="66" />
-        <entry key="CHINESE_SIMPLIFIED" value="1" />
-        <entry key="ENGLISH" value="68" />
-        <entry key="SPANISH" value="1" />
-      </map>
-    </option>
+    <option name="lastTrimTime" value="1755161925793" />
   </component>
 </application>
