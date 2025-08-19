@@ -2,6 +2,17 @@
   <component name="AiPluginSettings">
     <option name="gotItToolTipsShown" value="true" />
     <option name="lastLoggedInEmail" value="imliaocj@gmail.com" />
+    <option name="privacyBannerDismissedByEmail">
+      <map>
+        <entry key="imliaocj@gmail.com">
+          <value>
+            <PrivacyBannerDismissalInfo>
+              <option name="dismissalType" value="DISMISSED_PERMANENTLY" />
+            </PrivacyBannerDismissalInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="shortcutNotificationShown" value="true" />
   </component>
 </application>
