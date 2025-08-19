@@ -1,22 +1,11 @@
 <application>
   <component name="easyJavadoc">
-    <option name="accessKeyId" value="" />
-    <option name="accessKeySecret" value="" />
-    <option name="appId" value="" />
-    <option name="genAllClass" value="true" />
-    <option name="genAllField" value="false" />
-    <option name="genAllInnerClass" value="false" />
-    <option name="genAllMethod" value="false" />
-    <option name="googleKey" value="" />
-    <option name="microsoftKey" value="" />
+    <option name="author" value="liaocj" />
+    <option name="kdocAuthor" value="liaocj" />
+    <option name="kdocSimpleFieldDoc" value="true" />
     <option name="projectWordMap">
       <map>
-        <entry key="JavaHelloWord" />
-        <entry key="future-admin-harbin-braumat" />
-        <entry key="haitai-material" />
-        <entry key="haitai-material-backend" />
-        <entry key="put-ccr-report-server-packaging" />
-        <entry key="szcloud-manager-service">
+        <entry key="SZCloudManagerService">
           <value>
             <map />
           </value>
@@ -24,11 +13,6 @@
         <entry key="xix-ccr-report-server" />
       </map>
     </option>
-    <option name="secretId" value="" />
-    <option name="secretKey" value="" />
-    <option name="token" value="" />
-    <option name="translator" value="微软免费翻译" />
-    <option name="youdaoAppKey" value="" />
-    <option name="youdaoAppSecret" value="" />
+    <option name="simpleFieldDoc" value="true" />
   </component>
 </application>
