@@ -5,11 +5,7 @@
     <option name="kdocSimpleFieldDoc" value="true" />
     <option name="projectWordMap">
       <map>
-        <entry key="SZCloudManagerService">
-          <value>
-            <map />
-          </value>
-        </entry>
+        <entry key="SZCloudManagerService" />
         <entry key="xix-ccr-report-server" />
       </map>
     </option>
